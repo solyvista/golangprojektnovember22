@@ -20,8 +20,7 @@ structure of the code:
 main function contains:
 scanner function
 -function with the ascii code for the "drawing" 
--
--
+
 
 how to run the project:
 i wrote and run the project in vscode.
