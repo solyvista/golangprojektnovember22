@@ -18,7 +18,7 @@ structure of the code:
 -import needed packages
 -main function:
 main function contains:
-scanner function
+os.Args as a commmand line argument
 -function with the ascii code for the "drawing" 
 
 
@@ -33,6 +33,8 @@ https://github.com/flaviocopes/gocowsay
 https://github.com/AnonymousAAArdvark/cowsay-go
 https://github.com/dhruvbird/go-cowsay
 https://github.com/ShumilaMalik/Cowsay-in-Golang
+https://gobyexample.com/command-line-arguments
+https://yourbasic.org/golang/gotcha-index-out-of-range/
 
 
 personal notes and impressions:
@@ -43,4 +45,6 @@ what i learned:
 - the implementation of a divide and conquer solution finding strategy to break down the requirements into smaller goals
 - the implementation of a divide and conquer code building strategy to find solutions for the smaller goals in order to find a solution for the big goal (fullfiling the requirements)
 - strengthening my understanding of the basic golang structure and basic golang functions
--how to use scanner function in golang
+- how to use scanner function in golang
+- why the scanner is not the required tool for the given requirements and why the os.Args command line arguments is better to fulfill the requirements
+- -how to use os.Args for implementing command line arguments
