@@ -47,4 +47,4 @@ what i learned:
 - strengthening my understanding of the basic golang structure and basic golang functions
 - how to use scanner function in golang
 - why the scanner is not the required tool for the given requirements and why the os.Args command line arguments is better to fulfill the requirements
-- how to use os.Args for implementing command line arguments
+- how to use os.Args for implementing command line arguments and that in os.Args there is always at least 1 argument (at least there is the name of the file as an argument therefore there is at least this one argument, never zero arguments in os.Args).
