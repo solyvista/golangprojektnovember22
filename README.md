@@ -1,7 +1,7 @@
 # golangprojektnovember22
 
 project description:
-this is a small golang project i wrote a cowsay (with a pinguin instead of a cow). the program prints a function that "draws" a pinguin. one can scan input from the terminal via a scan function. the size of the speaking bubble of the pinguin is dependend on the lenght of the input from the scanner.
+this is a small golang project i wrote a cowsay. the program prints a function that "draws" a pinguin. one can scan input from the terminal via a scan function. the size of the speaking bubble of the pinguin is dependend on the lenght of the input from the scanner.
 
 project:
 we were asked to create the code for a cowsay alternative written in golang ( cowsay = a "drawing" of a cow or any other any other animal integrated in the golangcode with ascii code) that can scan input from the terminal and print the given input in a speechbubble that varies in size dependend on the size of the given input from the scanner.
